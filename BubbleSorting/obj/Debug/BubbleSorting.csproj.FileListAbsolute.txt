@@ -1,0 +1,28 @@
+C:\Users\AOJ\source\repos\BubbleSorting\BubbleSorting\bin\Debug\BubbleSorting.exe.config
+C:\Users\AOJ\source\repos\BubbleSorting\BubbleSorting\bin\Debug\BubbleSorting.exe
+C:\Users\AOJ\source\repos\BubbleSorting\BubbleSorting\bin\Debug\BubbleSorting.pdb
+C:\Users\AOJ\source\repos\BubbleSorting\BubbleSorting\obj\Debug\BubbleSorting.csprojResolveAssemblyReference.cache
+C:\Users\AOJ\source\repos\BubbleSorting\BubbleSorting\obj\Debug\BubbleSorting.csproj.CoreCompileInputs.cache
+C:\Users\AOJ\source\repos\BubbleSorting\BubbleSorting\obj\Debug\BubbleSorting.exe
+C:\Users\AOJ\source\repos\BubbleSorting\BubbleSorting\obj\Debug\BubbleSorting.pdb
+C:\Users\AOJ\source\repos\BubbleSorting\BubbleSorting\BubbleSorting\bin\Debug\BubbleSorting.exe.config
+C:\Users\AOJ\source\repos\BubbleSorting\BubbleSorting\BubbleSorting\bin\Debug\BubbleSorting.exe
+C:\Users\AOJ\source\repos\BubbleSorting\BubbleSorting\BubbleSorting\bin\Debug\BubbleSorting.pdb
+C:\Users\AOJ\source\repos\BubbleSorting\BubbleSorting\BubbleSorting\obj\Debug\BubbleSorting.csprojResolveAssemblyReference.cache
+C:\Users\AOJ\source\repos\BubbleSorting\BubbleSorting\BubbleSorting\obj\Debug\BubbleSorting.csproj.CoreCompileInputs.cache
+C:\Users\AOJ\source\repos\BubbleSorting\BubbleSorting\BubbleSorting\obj\Debug\BubbleSorting.exe
+C:\Users\AOJ\source\repos\BubbleSorting\BubbleSorting\BubbleSorting\obj\Debug\BubbleSorting.pdb
+C:\Users\Fizzyfeezy\Documents\Visual Studio 2017\BubbleSorting\BubbleSorting\BubbleSorting\bin\Debug\BubbleSorting.exe.config
+C:\Users\Fizzyfeezy\Documents\Visual Studio 2017\BubbleSorting\BubbleSorting\BubbleSorting\bin\Debug\BubbleSorting.exe
+C:\Users\Fizzyfeezy\Documents\Visual Studio 2017\BubbleSorting\BubbleSorting\BubbleSorting\bin\Debug\BubbleSorting.pdb
+C:\Users\Fizzyfeezy\Documents\Visual Studio 2017\BubbleSorting\BubbleSorting\BubbleSorting\obj\Debug\BubbleSorting.csprojAssemblyReference.cache
+C:\Users\Fizzyfeezy\Documents\Visual Studio 2017\BubbleSorting\BubbleSorting\BubbleSorting\obj\Debug\BubbleSorting.csproj.CoreCompileInputs.cache
+C:\Users\Fizzyfeezy\Documents\Visual Studio 2017\BubbleSorting\BubbleSorting\BubbleSorting\obj\Debug\BubbleSorting.exe
+C:\Users\Fizzyfeezy\Documents\Visual Studio 2017\BubbleSorting\BubbleSorting\BubbleSorting\obj\Debug\BubbleSorting.pdb
+C:\Users\Fizzyfeezy\Documents\Visual Studio 2017\140407516_OYELAMI\BubbleSorting\BubbleSorting\BubbleSorting\bin\Debug\BubbleSorting.exe.config
+C:\Users\Fizzyfeezy\Documents\Visual Studio 2017\140407516_OYELAMI\BubbleSorting\BubbleSorting\BubbleSorting\bin\Debug\BubbleSorting.exe
+C:\Users\Fizzyfeezy\Documents\Visual Studio 2017\140407516_OYELAMI\BubbleSorting\BubbleSorting\BubbleSorting\bin\Debug\BubbleSorting.pdb
+C:\Users\Fizzyfeezy\Documents\Visual Studio 2017\140407516_OYELAMI\BubbleSorting\BubbleSorting\BubbleSorting\obj\Debug\BubbleSorting.csprojAssemblyReference.cache
+C:\Users\Fizzyfeezy\Documents\Visual Studio 2017\140407516_OYELAMI\BubbleSorting\BubbleSorting\BubbleSorting\obj\Debug\BubbleSorting.csproj.CoreCompileInputs.cache
+C:\Users\Fizzyfeezy\Documents\Visual Studio 2017\140407516_OYELAMI\BubbleSorting\BubbleSorting\BubbleSorting\obj\Debug\BubbleSorting.exe
+C:\Users\Fizzyfeezy\Documents\Visual Studio 2017\140407516_OYELAMI\BubbleSorting\BubbleSorting\BubbleSorting\obj\Debug\BubbleSorting.pdb
